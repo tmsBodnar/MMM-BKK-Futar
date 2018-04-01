@@ -5,7 +5,14 @@ https://github.com/MichMich/MagicMirror
 
 Telepítés:
 Bemásolni a Magic Mirror /modules mappába,
-vagy a modules mappában futtatni: git clone https://github.com/Tms-bodnar/MMM-BKK-Futar.git
+vagy a modules mappában futtatni: 
+```
+git clone https://github.com/Tms-bodnar/MMM-BKK-Futar.git
+```
+majd 
+```
+npm install
+```
 MagicMirror/config mappa config.js-hez hozzáadni:
 ```
 {
