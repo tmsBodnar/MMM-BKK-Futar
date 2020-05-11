@@ -1,0 +1,32 @@
+
+.border_bottom td{
+    border-bottom: 1pt solid #444444;
+}
+
+.border_top td{
+    border-top: 1pt solid #444444;
+}
+.font td{
+	font-size: 70%;
+}
+.color_HEV{
+	color: green;
+}
+.color_BUS{
+	color: blue;
+}
+.color_TRAM{
+	color: yellow;
+}
+.header1{
+	width: 10%;	
+}
+.header2{
+	width: 20%;
+}
+.header3{
+	width: 60%;
+}
+.header4{
+	width: 10%;
+}
